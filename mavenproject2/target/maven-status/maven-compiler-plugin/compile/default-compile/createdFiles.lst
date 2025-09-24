@@ -1,0 +1,4 @@
+aust\uservalidation\User.class
+aust\uservalidation\InvalidIdException.class
+com\mycompany\mavenproject2\Mavenproject2.class
+aust\uservalidation\InvalidNameException.class
